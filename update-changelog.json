@@ -3,8 +3,9 @@
   "latestVersionCode": "36",
   "url": "https://play.google.com/store/apps/details?id=com.booleanbites.imagitor",
   "releaseNotes": [
-    "- Full justification now supported.",
-    "- Several critical crashes has been fixed.",
-    "We're constantly updating the app. Please stay tuned for more updates and exciting features."
+    "font_version:3",
+    "video_links_version:0",
+    "shape_list_version:0",
+    "text_styles_version:5"
   ]
 }
